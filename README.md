@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile. I am a fellow AI developer and PhD candidate at Amsterdam UMC. Take a sneak peek into my [work](https://qurai.amsterdam/researcher/sanyog-vyawahare/).
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JackRio&theme=radical)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackRio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
